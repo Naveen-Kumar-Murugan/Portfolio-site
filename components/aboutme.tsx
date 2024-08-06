@@ -11,7 +11,7 @@ const AboutMe: React.FC = () => {
     <div className="flex px-24 pt-10 mx-9 pb-24 text-indigo-dark font-mono tracking-tighter">
       <div className="w-4/5 pr-20 text-base">
         <p className="pb-3">
-        Hello! <strong>I'm Naveen Kumar M,</strong> a dedicated <strong>Blockchain Developer</strong> with expertise in <strong>Solidity and Web3 technologies.</strong> My journey into the world of blockchain has equipped me with a deep understanding of decentralized systems and their transformative potential. Over the years, I have honed my skills in creating secure and efficient digital solutions, along with areas of interest in <strong>authentication systems</strong> and <strong>Identity and Access Management.</strong><br/>
+        Hello! <strong>I am Naveen Kumar M,</strong> a dedicated <strong>Blockchain Developer</strong> with expertise in <strong>Solidity and Web3 technologies.</strong> My journey into the world of blockchain has equipped me with a deep understanding of decentralized systems and their transformative potential. Over the years, I have honed my skills in creating secure and efficient digital solutions, along with areas of interest in <strong>authentication systems</strong> and <strong>Identity and Access Management.</strong><br/>
         </p>
         <p className="pb-3">
         I am passionate about <strong>leveraging cutting-edge technologies</strong> to develop innovative solutions that address real-world challenges. My work focuses on building <strong>decentralized applications (DApps)</strong> that enhance digital ecosystems. I am driven by the potential of blockchain to revolutionize industries and create more inclusive and equitable digital environments.<br/>
